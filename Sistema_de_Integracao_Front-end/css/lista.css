@@ -1,0 +1,122 @@
+body {
+    background: #181b1f;
+    color: #fff;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    transition: background 0.3s, color 0.3s;
+    min-height: 100vh;
+}
+
+header {
+    display: flex;
+    justify-content: flex-end;
+    padding: 20px;
+    background: transparent;
+}
+
+.menu {
+    display: flex;
+    gap: 20px;
+}
+
+.menu a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.1em;
+    transition: color 0.2s;
+}
+
+.menu a:hover {
+    color: #4ade80;
+}
+
+.lista {
+    max-width: 500px;
+    margin: 40px auto;
+    background: #23272f;
+    border-radius: 20px;
+    box-shadow: 0 4px 32px #000a;
+    padding: 32px 40px;
+}
+
+h1, h2 {
+    text-align: center;
+    margin-bottom: 24px;
+    font-weight: bold;
+}
+
+#clients-list ul {
+    list-style: none;
+    padding: 0;
+}
+
+#clients-list li {
+    background: #23272f;
+    margin-bottom: 10px;
+    padding: 16px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px #0004;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.delete-button {
+    background: #ef4444;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 16px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background 0.2s;
+}
+
+.delete-button:hover {
+    background: #b91c1c;
+}
+
+.theme-toggle {
+    position: fixed;
+    top: 24px;
+    right: 24px;
+    background: none;
+    border: none;
+    font-size: 2em;
+    cursor: pointer;
+    color: #ffd700;
+    transition: color 0.2s;
+    z-index: 1000;
+}
+
+body.light {
+    background: #f4f4f4;4;
+    color: #222;
+}
+
+body.light .lista,ody.light .lista,
+body.light #clients-list li {body.light #clients-list li {
+    background: #fff;
+    color: #222;
+}
+
+body.light .menu a {body.light .menu a {
+    color: #222;
+}
+
+body.light .menu a:hover {r {
+    color: #22c55e;   color: #22c55e;
+}}
+
+body.light .delete-button {ete-button {
+    background: #ef4444;4;
+    color: #fff;
+}
+
+body.light .delete-button:hover {ete-button:hover {
+    background: #b91c1c;c1c;
+}
+
+body.light .theme-toggle {gle {
+    color: #222;
+}

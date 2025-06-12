@@ -1,0 +1,41 @@
+header {
+    width: 100%;
+    background: #181b1f;
+    padding: 24px 0 24px 0;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.menu {
+    display: flex;
+    gap: 32px;
+    margin-right: 40px;
+}
+
+.menu a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.4em;
+    transition: color 0.2s;
+}
+
+.menu a:hover {
+    color: #4ade80;
+    text-decoration: underline;
+}
+
+body.light header {
+    background: #fff;
+}
+
+body.light .menu a {
+    color: #222;
+}
+
+body.light .menu a:hover {
+    color: #22c55e;
+}
+
