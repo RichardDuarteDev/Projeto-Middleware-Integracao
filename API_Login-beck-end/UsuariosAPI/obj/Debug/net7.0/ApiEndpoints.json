@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "UsuariosAPI.Controllers.AcessoController",
+    "Method": "Get",
+    "RelativePath": "Acesso",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UsuariosAPI.Controllers.UsuarioController",
+    "Method": "CadastraUsuario",
+    "RelativePath": "Usuario/cadastro",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "UsuariosAPI.Data.DTOs.CreateUsuarioDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UsuariosAPI.Controllers.UsuarioController",
+    "Method": "Login",
+    "RelativePath": "Usuario/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "UsuariosAPI.Data.DTOs.LoginUsuarioDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
