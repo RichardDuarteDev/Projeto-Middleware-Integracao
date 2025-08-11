@@ -1,0 +1,348 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|c:\\users\\sora\\desktop\\cadastro-funcionarios-crud\\crudmatrix\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|solutionrelative:crudmatrix\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|c:\\users\\sora\\desktop\\cadastro-funcionarios-crud\\crudmatrix\\controllers\\buscacepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|solutionrelative:crudmatrix\\controllers\\buscacepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|c:\\users\\sora\\desktop\\cadastro-funcionarios-crud\\crudmatrix\\views\\buscacep\\buscacep.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|solutionrelative:crudmatrix\\views\\buscacep\\buscacep.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|c:\\users\\sora\\desktop\\cadastro-funcionarios-crud\\crudmatrix\\views\\clientesapi\\getclienteapi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|solutionrelative:crudmatrix\\views\\clientesapi\\getclienteapi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|c:\\users\\sora\\desktop\\cadastro-funcionarios-crud\\crudmatrix\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|solutionrelative:crudmatrix\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|c:\\users\\sora\\desktop\\cadastro-funcionarios-crud\\crudmatrix\\views\\employees\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|solutionrelative:crudmatrix\\views\\employees\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|c:\\users\\sora\\desktop\\cadastro-funcionarios-crud\\crudmatrix\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|solutionrelative:crudmatrix\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|c:\\users\\sora\\desktop\\cadastro-funcionarios-crud\\crudmatrix\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|solutionrelative:crudmatrix\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|c:\\users\\sora\\desktop\\cadastro-funcionarios-crud\\crudmatrix\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|solutionrelative:crudmatrix\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|c:\\users\\sora\\desktop\\cadastro-funcionarios-crud\\crudmatrix\\controllers\\clientesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|solutionrelative:crudmatrix\\controllers\\clientesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|c:\\users\\sora\\desktop\\cadastro-funcionarios-crud\\crudmatrix\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|solutionrelative:crudmatrix\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|c:\\users\\sora\\desktop\\cadastro-funcionarios-crud\\crudmatrix\\models\\clientesapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|solutionrelative:crudmatrix\\models\\clientesapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|c:\\users\\sora\\desktop\\cadastro-funcionarios-crud\\crudmatrix\\models\\buscacepmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|solutionrelative:crudmatrix\\models\\buscacepmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|c:\\users\\sora\\desktop\\cadastro-funcionarios-crud\\crudmatrix\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|solutionrelative:crudmatrix\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|c:\\users\\sora\\desktop\\cadastro-funcionarios-crud\\crudmatrix\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|solutionrelative:crudmatrix\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|c:\\users\\sora\\desktop\\cadastro-funcionarios-crud\\crudmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|solutionrelative:crudmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|c:\\users\\sora\\desktop\\cadastro-funcionarios-crud\\crudmatrix\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|solutionrelative:crudmatrix\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|c:\\users\\sora\\desktop\\cadastro-funcionarios-crud\\crudmatrix\\models\\framework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4AB01A-2F35-4169-8034-DD12F7E161A6}|CRUDMatrix\\Cadastro de Funcion\u00E1rios.csproj|solutionrelative:crudmatrix\\models\\framework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetClienteAPI.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\Views\\ClientesAPI\\GetClienteAPI.cshtml",
+              "RelativeDocumentMoniker": "CRUDMatrix\\Views\\ClientesAPI\\GetClienteAPI.cshtml",
+              "ToolTip": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\Views\\ClientesAPI\\GetClienteAPI.cshtml",
+              "RelativeToolTip": "CRUDMatrix\\Views\\ClientesAPI\\GetClienteAPI.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T20:01:34.669Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientesAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\Controllers\\ClientesAPIController.cs",
+              "RelativeDocumentMoniker": "CRUDMatrix\\Controllers\\ClientesAPIController.cs",
+              "ToolTip": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\Controllers\\ClientesAPIController.cs",
+              "RelativeToolTip": "CRUDMatrix\\Controllers\\ClientesAPIController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAlwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:45:35.394Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BuscaCep.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\Views\\BuscaCep\\BuscaCep.cshtml",
+              "RelativeDocumentMoniker": "CRUDMatrix\\Views\\BuscaCep\\BuscaCep.cshtml",
+              "ToolTip": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\Views\\BuscaCep\\BuscaCep.cshtml",
+              "RelativeToolTip": "CRUDMatrix\\Views\\BuscaCep\\BuscaCep.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T00:11:37.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddOrEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\Views\\Employees\\AddOrEdit.cshtml",
+              "RelativeDocumentMoniker": "CRUDMatrix\\Views\\Employees\\AddOrEdit.cshtml",
+              "ToolTip": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\Views\\Employees\\AddOrEdit.cshtml",
+              "RelativeToolTip": "CRUDMatrix\\Views\\Employees\\AddOrEdit.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T19:59:07.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDMatrix\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "CRUDMatrix\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T21:54:11.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDMatrix\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CRUDMatrix\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T22:00:21.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CRUDMatrix\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CRUDMatrix\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T21:07:19.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CRUDMatrix\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CRUDMatrix\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T21:07:17.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "CRUDMatrix\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "CRUDMatrix\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T00:45:34.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CRUDMatrix\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\Models\\Employee.cs",
+              "RelativeToolTip": "CRUDMatrix\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:46:48.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClientesAPIModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\Models\\ClientesAPIModel.cs",
+              "RelativeDocumentMoniker": "CRUDMatrix\\Models\\ClientesAPIModel.cs",
+              "ToolTip": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\Models\\ClientesAPIModel.cs",
+              "RelativeToolTip": "CRUDMatrix\\Models\\ClientesAPIModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T00:23:24.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BuscaCepModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\Models\\BuscaCepModel.cs",
+              "RelativeDocumentMoniker": "CRUDMatrix\\Models\\BuscaCepModel.cs",
+              "ToolTip": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\Models\\BuscaCepModel.cs",
+              "RelativeToolTip": "CRUDMatrix\\Models\\BuscaCepModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T00:10:33.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\Startup.cs",
+              "RelativeDocumentMoniker": "CRUDMatrix\\Startup.cs",
+              "ToolTip": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\Startup.cs",
+              "RelativeToolTip": "CRUDMatrix\\Startup.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwBsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T18:50:27.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Microsoft.NET.EolTargetFrameworks.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwB8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-13T00:30:11.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUDMatrix\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\appsettings.json",
+              "RelativeToolTip": "CRUDMatrix\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T18:51:16.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CRUDMatrix\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\appsettings.Development.json",
+              "RelativeToolTip": "CRUDMatrix\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T18:50:31.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDMatrix\\Program.cs",
+              "ToolTip": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\Program.cs",
+              "RelativeToolTip": "CRUDMatrix\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T18:50:29.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Framework.cs",
+              "DocumentMoniker": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\Models\\Framework.cs",
+              "RelativeDocumentMoniker": "CRUDMatrix\\Models\\Framework.cs",
+              "ToolTip": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\Models\\Framework.cs",
+              "RelativeToolTip": "CRUDMatrix\\Models\\Framework.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T23:08:37.674Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "1200617f-e25b-4de0-8be1-7be823bc0489",
+        "Display": 0,
+        "X": 297,
+        "Y": 165,
+        "Width": 987,
+        "Height": 313,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BuscaCepController.cs",
+              "DocumentMoniker": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\Controllers\\BuscaCepController.cs",
+              "RelativeDocumentMoniker": "CRUDMatrix\\Controllers\\BuscaCepController.cs",
+              "ToolTip": "C:\\Users\\Sora\\Desktop\\Cadastro-Funcionarios-CRUD\\CRUDMatrix\\Controllers\\BuscaCepController.cs",
+              "RelativeToolTip": "CRUDMatrix\\Controllers\\BuscaCepController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T00:08:09.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

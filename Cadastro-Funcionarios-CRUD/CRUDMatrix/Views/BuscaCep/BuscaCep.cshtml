@@ -1,0 +1,18 @@
+﻿@model CRUDMatrix.Models.BuscaCepModel
+
+<form asp-action="BuscaCep" method="post">
+    <input type="text" name="cep" placeholder="Digite o CEP" value="@Model?.cep" />
+    <button type="submit">Buscar</button>
+</form>
+
+@if (Model != null && !string.IsNullOrEmpty(Model.cep))
+{
+    <div>
+        <p><strong>CEP:</strong> @Model.cep</p>
+        <p><strong>Estado:</strong> @Model.state</p>
+        <p><strong>Cidade:</strong> @Model.city</p>
+        <p><strong>Bairro:</strong> @Model.neighborhood</p>
+        <p><strong>Rua:</strong> @Model.street</p>
+        <p><strong>Serviço:</strong> @Model.service</p>
+    </div>
+}
