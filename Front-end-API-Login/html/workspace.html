@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Workspace</title>    
+    <link rel="stylesheet" href="/css/workspace.css">
+    </head>
+<body>
+    <button class="theme-toggle" id="themeToggle" aria-label="Alternar tema"></button>
+    <header>
+        <h1>Workspace</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Work Space de Sistemas</h2>
+            <p>Escolha um sistema para acessar:</p>
+        </section>
+        <div class="cards-container">
+            <div class="card" tabindex="0">
+                <h3>CRUD MVC</h3>
+                <div class="card-details">
+                    <p>CRUD MVC Cadastro: Sistema Básico de cadastro de funcionários, 
+                        utilizando Desing Patterns MVC (Model-View-Controller)
+                        Banco de dados: SQL Server.</p>
+                    <button onclick="event.stopPropagation(); window.open('https://localhost:44377')">Acessar Sistema</button>
+                </div>
+            </div>
+            <div class="card" tabindex="0">
+                <h3>Sistema de Integração</h3>
+                <div class="card-details">
+                    <p>Projeto em arquitetura de 3 camadas
+                        (UI-BL-BD) (BL): Se trata de uma API no back-end processando
+                        as regrades negocio com validação. 
+                        Posui uma interface (UI) - Para usuários fazendo Rquisições HTTP para 
+                        API back-end. (BD) Banco de dados SQL Server</p>
+                    <button onclick="window.location.href='http://127.0.0.1:5502/Index.html'">Acessar Sistema</button>
+                </div>
+            </div>
+        </div>  
+    </main>
+    <script src="/js/workspace.js"></script>
+</body>
+</html>
